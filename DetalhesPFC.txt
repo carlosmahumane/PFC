@@ -1,0 +1,26 @@
+1. TELEFONES ROUBADOS
+----------------------------
+
+Descr: Varias denucias de telefones roubados, amenças com numero privados, pessoas perdida ou sequestradas ou carros roubados onde o seu dispositivo movel ainda dava sinal. 
+
+Quanto aos telefones roubados, a PIC, Tribunais ou a Procuradoria, solicitava rastreio do dispositivo, ou de um certo individuo.
+
+Quanto as pessoas perdidas, sequestradas e carros roubados importa a localizacao ou as zonas por onde o telemovel registou algum trafego pela rede.
+
+Quanto as chamdas privadas e ameaças importa conhecer os dados do emissor, de onde ligou, dados de registo do subscritor.
+
+Objectivos
+- Rastreio dos dados do subscritor duma chamada privada.
+- Localizacoes do emissor e receptor durante uma chamada.
+- Rastreio de celulares com base no IMEI
+- Rastreio do
+
+
+2. SGD - SISTEMA DE GESTAO DE DISTRIBUICAO
+---------------------------------------------
+
+Descr: A Mcel possui uma grande rede de distribuicao por todo pais, e devido a gingatestica rede é dificel ter um controle completo do que acontece com cada antena, zona e celula. A mcel precisa saber qual é a resposta do mercado/clientes quanto aos seus serviços:
+- Quantas recargas de cada valor sao activadas em cada antena por dia.
+- Quantas pacotes inicias sao activados em cada antena por dia.
+- Quantos Erlanes sao feitos por cada antena.
+- 
